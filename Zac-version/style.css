@@ -17,3 +17,7 @@ footer {
     border: 3px outset;
     border-color: white;
 }
+
+a {
+    color: white;
+}
