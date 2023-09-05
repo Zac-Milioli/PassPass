@@ -1,4 +1,4 @@
-*Pass Pass*
+*PassPass*
 ---------
 
 ⚠️ *Problema*: Segurança virtual é um assunto seríssimo nos tempos modernos, contudo, ainda é algo que as pessoas não se preocupam amplamente, visto que na esmagadora maioria dos casos optam por criar senhas com informações pessoais próprias, sendo de caráter fraco. Isto se aplica, principalmente, ao público mais velho, o que os torna alvos vulneráveis. Porém, a criação de senhas fortes tende a ser algo que pode se tornar complicado, seja através de um gerador aleatório na internet - situação onde as pessoas dificilmente lembrarão da senha gerada e serão obrigadas a utilizar um administrador de senhas - ou manualmente criando uma, o que, dependendo de quantas variações a pessoa cria para diferentes sites, torna muito difícil se lembrar dessas para acessar rapidamente algum deles.
