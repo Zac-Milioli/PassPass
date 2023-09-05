@@ -12,3 +12,8 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 350%;
 }
+
+footer {
+    border: 5px outset;
+    border-color: white;
+}
