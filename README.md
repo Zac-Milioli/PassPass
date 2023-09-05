@@ -12,5 +12,3 @@
 💡 *PMI I*
 
 🔗 *url github:* Sem códigos ainda
-
-🛬 *url landpage:* Sem landpage ainda
