@@ -7,7 +7,7 @@
 
 🏋🏼‍♂️ *Proposta de Valor:* A nossa proposta de valor é permitir que as pessoas facilmente e rapidamente criem ou acessem suas senhas fortes com base em dados que eles mesmo vão inserir, podendo ser um formato próprio padronizado, como a url do site onde vai ser feito o login ou o nome do site seguido de informações pessoais da pessoa, ou até mesmo utilizando uma senha própria comum como um dos dados geradores, assim tornando a senha forte ainda mais imprevisível e permitindo que o uso do software seja totalmente dinâmico e pessoal do usuário.
 
-👩‍💻👩‍💻 *Equipe:* Zac Milioli, André Dassoler.
+👩‍💻👩‍💻 *Equipe:* Zac Milioli, André Dassoler, Gabriela Gonçalves, Amanda Kowalski.
 
 💡 *PMI I*
 
