@@ -1,0 +1,23 @@
+body {
+    background-image: url(static/gradient.png);
+    color: white; 
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 350%;
+}
+
+footer {
+    border: 3px outset;
+    border-color: white;
+}
+
+a {
+    color: white;
+}
