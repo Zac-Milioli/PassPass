@@ -12,3 +12,4 @@
 💡 *PMI I*
 
 🔗 *url github:* https://github.com/Zac-Milioli/PassPass
+🔗 *url landpage:* https://zac-milioli.github.io/PassPass/
